@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set an option to exit immediately if any error appears
-#
+# mo
 set -o errexit
 
 # Main function that describes the behavior of the 
